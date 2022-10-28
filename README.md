@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Pinheiro</h1>
-<h3 align="center">I am an Industrial Engineer, graduated from the Federal University of Pernambuco, I develop research in the area of Multiple-criteria Decision analysis I’m currently learning Data Science | Python | Machine Learning to apply decision theory in Industrial scenarios. My focus is on integrating Manufacturing Processes, Data Analysis and Quality Control.</h3>
+<h1 align="left">Hi 👋, I'm Rodrigo Pinheiro</h1>
+<h3 align="left">I am an Industrial Engineer, graduated from the Federal University of Pernambuco, I develop research in the area of Multiple-criteria Decision analysis I’m currently learning Data Science | Python | Machine Learning to apply decision theory in Industrial scenarios. My focus is on integrating Manufacturing Processes, Data Analysis and Quality Control.</h3>
 
 - 📫 How to reach me **rodrigosantospinheiro@gmail.com**
 
