@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to Rodrigo Pinheiro Data Set</h1>
-<h3 align="left">I am an Industrial Engineer, graduated from the Federal University of Pernambuco, I develop research in the area of Multiple-criteria Decision Analysis and Quality Control</h3>
-<h3 align="left">I’m currently learning Data Analysis | Python | Power BI to apply decision theory in Industrial scenarios.</h3>
+<h3 align="left">I am an Industrial Engineer, graduated from the Federal University of Pernambuco and Agroecology Technician I develop research in the area of Multiple-criteria Decision Analysis and Quality Control</h3>
+<h3 align="left">I’m currently learning Data Analysis | Python | Power BI to apply decision theory in industrial and environment scenarios.</h3>
 <h3 align="left">My focus is on integrating Manufacturing Processes, Sustainability and Data Analysis.</h3>
 
 - 📫 How to reach me **rodrigosantospinheiro@gmail.com**
