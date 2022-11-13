@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Rodrigo Pinheiro</h1>
+<h1 align="left">Welcome to Rodrigo Pinheiro Data Set</h1>
 <h3 align="left">I am an Industrial Engineer, graduated from the Federal University of Pernambuco, I develop research in the area of Multiple-criteria Decision Analysis and Quality Control</h3>
 <h3 align="left">I’m currently learning Data Science | Python | Machine Learning to apply decision theory in Industrial scenarios.</h3>
 <h3 align="left">My focus is on integrating Manufacturing Processes, Sustainability and Data Analysis.</h3>
