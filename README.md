@@ -1,8 +1,7 @@
 <h1 align="left">Welcome to Rodrigo Pinheiro Data Set</h1>
-<h3 align="left">I am an Agroecology Technician and Industrial Engineer, graduated from the Federal University</h3> 
-<h3 align="left">I develop research in the area of Multiple-criteria Decision Analysis and Quality Control</h3>
-<h3 align="left">I’m currently learning Data Analysis | Python | Power BI to apply decision theory in industrial and environment scenarios.</h3>
-<h3 align="left">My focus is on integrating Manufacturing Processes, Sustainability and Data Analysis.</h3>
+<h3 align="left">I am a professional passionate about data and sustainability, with a degree in Production Engineering (2022), Agroecology  (2023) and Data Analysis (2023).</h3> 
+<h3 align="left">I believe in the union of technology and ecology to provide a more conscious, balanced and prosperous future.</h3>
+<h3 align="left">With engineering knowledge, supported by tools such as SQL, Python and Power BI, I try to solve complex challenges and find innovative solutions to promote sustainability, social equality  and and better decisions.</h3>
 
 - 📫 How to reach me **rodrigosantospinheiro@gmail.com**
 
