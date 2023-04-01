@@ -1,5 +1,5 @@
 <h1 align="left">Welcome to Rodrigo Pinheiro Data Set</h1>
-<h3 align="left">I am a professional passionate about data and sustainability, with a degree in Production Engineering, Agroecology and Data Analysis.</h3> 
+<h3 align="left">I'm a professional passionate about data and sustainability, with a degree in Production Engineering, Agroecology and Data Analysis.</h3> 
 <h3 align="left">I believe in the union of technology and ecology to provide a more conscious, balanced and prosperous future.</h3>
 <h3 align="left">With engineering knowledge, supported by tools such as SQL, Python and Power BI, I try to solve complex challenges and find innovative solutions to promote sustainability, social equality  and and better decisions.</h3>
 
