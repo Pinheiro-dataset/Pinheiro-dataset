@@ -1,7 +1,7 @@
 <h1 align="left">Welcome to Rodrigo Pinheiro dataset</h1>
 <h3 align="left">I'm a professional passionate about data and sustainability, with a degree in Production Engineering, Agroecology and Data Analysis.</h3> 
 <h3 align="left">I believe in the union of technology and ecology to provide a more conscious, balanced and prosperous future.</h3>
-<h3 align="left">With engineering knowledge, supported by tools such as SQL, Python and Power BI, I try to solve complex challenges and find innovative solutions to promote sustainability, social equality  and and better decisions.</h3>
+<h3 align="left">With engineering knowledge, supported by tools such as Python, Machine Learning, SQL and Power BI, I try to solve complex challenges and find innovative solutions to promote sustainability, social equality  and and better business decisions.</h3>
 
 - 🏡 My portfolio: **https://pinheiro-dataset.github.io/portfolio/**
 - 📫 How to reach me **rodrigosantospinheiro@gmail.com**
